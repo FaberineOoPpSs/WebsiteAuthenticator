@@ -1,6 +1,6 @@
 # WebsiteAuthenticator
 
-#### To run the file:
+#### To run the project:
 ```
 python3 main.py
 ```
